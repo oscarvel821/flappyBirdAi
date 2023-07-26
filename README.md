@@ -16,6 +16,11 @@ Visualization: The project comes with visualizations to display the performance 
 
 Configurable Parameters: The repository includes configurable parameters for NEAT, allowing users to tweak and experiment with different settings to optimize the AI agent's performance.
 
+## How To Get Started
+python3 main.py will start the AI process
+
+python3 flappybird.py will start the game where you can start playing on your own
+
 ## dependecncy
 
 Python 3.9
