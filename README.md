@@ -21,7 +21,7 @@ python3 main.py will start the AI process
 
 python3 flappybird.py will start the game where you can start playing on your own
 
-## dependecncy
+## Dependency
 
 Python 3.9
 
